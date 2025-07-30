@@ -1,0 +1,22 @@
+The existing software - 
+lets consider aditya he is the tresury head of sbi. aditya usually comes and logs in to the software which is heavy text based only works on banks pc. then he checks todays rate like what is call rates its just shown him in the text form no charts so if he wants to analyze the previous year rates he have to manually download teh pdfs fron the rbi website and then study them.
+then his manager tells him that we need 100cr urgently to fill out our books so post a deal to the other banks. so he post a deal that sbi needs 100cr with 5% interest.
+
+My software - 
+Lets consider aniket he is also a tresury head of icic. aniket usually comes and logs in to the software which is not heavy text based modern ui interactive charts and works on pc and laptops fine. then he checks todays rate like what is call rates its just shown him in the there at the top and in teh form of text and below it in the form of chart as well so if he wants to analyze the previous year rates he can just select the 1m option and then chart will appear in from of him no need to manually downlaod the pdfs.
+then his manager tells him that we have money and we need to earn interest upon it so dicover good deal from other banks. so he sees a deal from sbi saying 100cr - 5% interest thats it no other deatails. so he have to manually call or have a chat with aditya for other details like is the deal negotiable pre closre is allowed or not and what are the collaterals.
+
+Then aditya will sahre all teh details via private chat and call then the aniket will accept the deal if the deal is accurate and all requirements are matched.
+
+The existing software - 
+Once the deal is accepted the money is transferred via e-kuber and and deal is settled via RTGS. The banker then have to fill thsi record manually in the tresury software to ekkp the record.
+
+My Software -
+Once the deal is accepted a digital ticket will get created and then it goes to official RTGS for settlement. and then they transfer money via e-kuber and then the details will get stored automatically in their tresury software.
+
+so list out some advantages and disadvantages of my software and the existing software-
+then tell me the potential of my product getting sucessfull-
+then also tell me what things am i solving-
+then also tell me will these banks shift on my product is the advantage is real -
+
+currently exclude security, approval from rbi because its the mandatory things which are achievable throughout the process.

@@ -1,0 +1,46 @@
+[
+    {
+        "rate_name": "Call Rates",
+        "rate_value": "\r\n                    4.85% - 5.85%\r\n                    *"
+    },
+    {
+        "rate_name": "7.06% GS 2028",
+        "rate_value": " 5.7162% #"
+    },
+    {
+        "rate_name": "6.75% GS 2029",
+        "rate_value": "\r\n                    5.8437% #"
+    },
+    {
+        "rate_name": "6.79% GS 2034",
+        "rate_value": " 6.2465% #"
+    },
+    {
+        "rate_name": "6.92% GS 2039",
+        "rate_value": " 6.4174% #"
+    },
+    {
+        "rate_name": "7.09% GS 2054",
+        "rate_value": " 6.8262% #"
+    },
+    {
+        "rate_name": "91 day T-bills",
+        "rate_value": "\r\n                    5.5796%*"
+    },
+    {
+        "rate_name": "182 day T-bills",
+        "rate_value": "\r\n                    5.5998%*"
+    },
+    {
+        "rate_name": "364 day T-bills",
+        "rate_value": "\r\n                    5.5995%*"
+    },
+    {
+        "rate_name": "S&P BSE Sensex",
+        "rate_value": "\r\n                    81442.04\r\n                    *"
+    },
+    {
+        "rate_name": "Nifty 50",
+        "rate_value": "\r\n                    24750.90\r\n                    *"
+    }
+]
